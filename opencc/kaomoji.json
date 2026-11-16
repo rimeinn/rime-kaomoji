@@ -9,11 +9,8 @@
   },
   "conversion_chain": [{
     "dict": {
-      "type": "group",
-      "dicts": [{
-        "type": "text",
-        "file": "kaomoji_category.txt"
-      }]
+      "type": "text",
+      "file": "kaomoji_category.txt"
     }
   }]
 }
